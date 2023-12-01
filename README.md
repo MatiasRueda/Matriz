@@ -1,5 +1,7 @@
 # Matriz
 
+![Static Badge](https://img.shields.io/badge/Estado%20-%20Terminado%20-%20green)
+
 ## Introducción
 Trabajo practico de la materia Organizacion del computador de la Facultad de Ingeniería Universidad de Buenos Aires
 La idea detrás de este proyecto es poner en practica los distintos conocimientos sobre Assembler Intel x86.
@@ -25,7 +27,7 @@ Proyecto individual.
     - Extraerlo.
     - Agregar a la variable Path la direccion de la carpeta bin que esta dentro de la carpeta donde se extrajo. Por ejemplo: C:\mingw-w64\bin.
 
-> [!Nota]
+> [!Note]
 > Los directorios que son utilizados como ejemplos son solo referencias, se pueden extraer donde usted mas desee.
 
 
