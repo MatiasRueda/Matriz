@@ -11,12 +11,15 @@ El programa le servirá como una mini calculadora para realizar operaciones con 
 ## Tipo de proyecto
 Proyecto individual.
 
+## Capturas de pantalla 
+<img src="https://i.postimg.cc/V61ftdnN/Captura.png"/>
+
 ## Tecnologías usadas
 - Intel x86
 
 ## Instalación ( para Windows )
 1. Descargar nasm de la siguiente pagina: https://www.nasm.us/pub/nasm/releasebuilds/?C=M;O=D
-    - Elegir la versión mas reciente.
+    - Elegir alguna de las versiones ( recomiendo la 2.16 ).
     - Elegir Win64 o Win32 ( dependiendo la versión que tenga ).
     - Descargar el .zip.
     - Extraerlo.
